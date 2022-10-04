@@ -21,10 +21,11 @@ To help prepare for this project I have broken it into 5 epics and the user stor
 * As a data collector I must ensure that the data used is of sufficient quantity and quality. As Garbage in results in garbage out. 
 
 ### Data visualisation, cleaning and preparation
-
+* As a data user I must ensures images are resized to ensure a smoother push to GitHub
+* As a data user I must create a plot to distinguish contrast between powdery mildrew leaves and normal leaves
 
 ### Model training, optimisation and validation
-
+* As a user I want a degree of 97% accuracy
 
 ### Dashboard plannning, designing and development
 * As a user I want a Project summary page, showing the project dataset summary and clients requirements
